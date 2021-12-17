@@ -10,7 +10,7 @@ Aqui está um pouco do meu trabalho para você conhecer! Fique a vontade para co
 
 Habilidades: REACT / JS / HTML / CSS
 
-🔭 Atualmente trabalho em Projetos relacionados ao Banco Itaú 🌱 Atualmente estou aprendendo Java Script e React 👯 Desejo colaborar em Qualquer Projeto 🤔 Estou procurando ajuda com Java Script 💬 Pergunte-me sobre HTML / CSS 📫 Como entrar em contato comigo: josiasfernandessp@gmail.com
+🔭 Atualmente trabalho com Liferay, em projetos SKY. 🌱  Estou aprendendo Java Script e React 👯 Desejo colaborar em Qualquer Projeto 🤔 Estou procurando ajuda com Java Script 💬 Pergunte-me sobre HTML / CSS 📫 Como entrar em contato comigo: josiasfernandessp@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-fernandes-pcd/)
 
