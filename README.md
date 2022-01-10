@@ -28,6 +28,6 @@ Habilidades: REACT / JS / HTML / CSS
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/josiasssp/josiasssp/blob/output/github-contribution-grid-snake.svg)
 
 </div>
