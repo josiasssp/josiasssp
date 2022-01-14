@@ -2,7 +2,7 @@
 
 Seja Bem vindo!
 
-Sou Desenvolvedor Web desde 2019. Atualmente trabalho em projetos do banco Itaú, por meio da Zup.
+Sou Desenvolvedor Web desde 2019. 
 
 Sou dedicado no que faço, esforçado, e se eu não sei algo, pergunto e corro atrás!
 
